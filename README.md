@@ -8,11 +8,11 @@
  * enter the key in " " and press enter.
  * REMEMBER TO WRITE THE MESSAGE AND KEY IN " ", OTHERWISE THE PROGRAM WILL SHOW ERROR.
  * example-
- [tbhamrah@iris ~]$ cd /home/student/tbhamrah.
- press enter
- [tbhamrah@iris ~]$ pyhton question1.py
- press enter
- enter your message:"taran is sleeping"
- press enter
- enter key:"nyitv"
+ * [tbhamrah@iris ~]$ cd /home/student/tbhamrah.
+ * press enter
+ * [tbhamrah@iris ~]$ pyhton question1.py
+ * press enter
+ * enter your message:"taran is sleeping"
+ * press enter
+ * enter key:"nyitv"
 
