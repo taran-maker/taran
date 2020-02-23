@@ -25,7 +25,7 @@
 * enter the path and press enter
 * enter command python question2.py and press enter
 * enter the message you want to encrypt in " " and press enter.
-* enter the key in " " and press enter.
+* enter the key in " " and press enter
 * REMEMBER TO WRITE THE MESSAGE AND KEY IN " ", OTHERWISE THE PROGRAM WILL SHOW ERROR.
 * example-
 * [tbhamrah@iris ~]$ cd /home/student/tbhamrah.
