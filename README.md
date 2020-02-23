@@ -4,4 +4,5 @@
  * open putty apllication
  * enter the path example: cd /home/student/tbhamrah
  * enter command python question1.py
+ !2
 
