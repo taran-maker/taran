@@ -1,16 +1,14 @@
 # question1
 
  * drag the pyhton file to winSCP
+ * drag the makefile to winSCP
  * open putty apllication
- * enter the path and press enter
- * enter command python question1.py and press enter
+ * enter command: make question1 and press enter
  * enter the message you want to encrypt in " " and press enter.
  * enter the key in " " and press enter.
  * REMEMBER TO WRITE THE MESSAGE AND KEY IN " ", OTHERWISE THE PROGRAM WILL SHOW ERROR.
  * example-
- * [tbhamrah@iris ~]$ cd /home/student/tbhamrah.
- * press enter
- * [tbhamrah@iris ~]$ pyhton question1.py
+ * [tbhamrah@iris ~]$ make question1
  * press enter
  * enter your message:"taran is sleeping"
  * press enter
@@ -18,19 +16,16 @@
  * press enter
  
  
- # question-2
+# question-2
 
 * drag the pyhton file to winSCP
-* open putty apllication
-* enter the path and press enter
-* enter command python question2.py and press enter
+* drag the makefile to winSCP
+* enter command: make question2 and press enter
 * enter the message you want to encrypt in " " and press enter.
 * enter the key in " " and press enter
 * REMEMBER TO WRITE THE MESSAGE AND KEY IN " ", OTHERWISE THE PROGRAM WILL SHOW ERROR.
 * example-
-* [tbhamrah@iris ~]$ cd /home/student/tbhamrah.
-* press enter
-* [tbhamrah@iris ~]$ pyhton question2.py
+* [tbhamrah@iris ~]$ make question2
 * press enter
 * enter your message:"rsitiealnnegasp"
 * press enter
