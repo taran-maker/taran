@@ -1,7 +1,7 @@
 # question1
 
- * drag the pyhton file to winSCP
- * drag the makefile to winSCP
+ * copy and paste the python file into winSCP
+ * copy and paste the into winSCP
  * open putty apllication
  * enter command: make question1 and press enter
  * enter the message you want to encrypt in " " and press enter.
@@ -18,8 +18,9 @@
  
 # question-2
 
-* drag the pyhton file to winSCP
-* drag the makefile to winSCP
+* copy and paste the python file to winSCP
+* copy and paste the makefile to winSCP
+* open putty application
 * enter command: make question2 and press enter
 * enter the message you want to encrypt in " " and press enter.
 * enter the key in " " and press enter
